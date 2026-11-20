@@ -7,3 +7,4 @@ Dataset: [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash
 Analítica Avanzada de Datos · 6AM1 · Equipo 3: Cristóbal Sánchez Oliver, García Juanillo Alan, Reyes León Ángel Eduardo.
 
 ## LINK
+https://clasificadores-e53nsearxn2s3zg5rtoytm.streamlit.app/ 
